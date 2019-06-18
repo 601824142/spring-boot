@@ -2,21 +2,13 @@
 :docs: https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference
 :github: https://github.com/spring-projects/spring-boot
 
-Spring Boot makes it easy to create Spring-powered, production-grade applications and
-services with absolute minimum fuss. It takes an opinionated view of the Spring platform
-so that new and existing users can quickly get to the bits they need.
-
-You can use Spring Boot to create stand-alone Java applications that can be started using
-`java -jar` or more traditional WAR deployments. We also provide a command line tool
-that runs spring scripts.
+Spring Boot可以轻松创建Spring驱动的生产级应用程序。绝对最低限度的服务。它采用了Spring平台的观点，这样新用户和现有用户就可以快速获得所需的位数。 您可以使用Spring Boot创建可以使用的独立Java应用程序`java -jar`或更传统的WAR部署。我们还提供命令行工具运行spring脚本。
 
 Our primary goals are:
 
-* Provide a radically faster and widely accessible getting started experience for all
-Spring development
-* Be opinionated out of the box, but get out of the way quickly as requirements start to
-diverge from the defaults
-* Provide a range of non-functional features that are common to large classes of projects
+* 为所有人提供从根本上更快，更广泛的入门体验 10 春天的发展
+* 开箱即用，但随着需求的开始迅速摆脱困境 11 偏离默认值
+* 提供一系列对大型项目通用的非功能性功能
 (e.g. embedded servers, security, metrics, health checks, externalized configuration)
 * Absolutely no code generation and no requirement for XML configuration
 
@@ -29,7 +21,7 @@ instructions] as well as a comprehensive
 {docs}/html/getting-started.html#getting-started-first-application[``getting started``]
 guide.
 
-Here is a quick teaser of a complete Spring Boot application in Java:
+这是Java中完整的Spring Boot应用程序的快速预告片:
 
 [source,java,indent=0]
 ----
